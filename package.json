@@ -1,0 +1,7 @@
+{
+  "name": "signalforge-campus-optimizer",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "node src/server.js", "build": "node src/build.js", "preview": "node src/server.js --dist" }
+}
